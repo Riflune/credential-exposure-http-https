@@ -1,9 +1,11 @@
 Analysis of Credential Exposure in HTTP and Protection Through HTTPS
 
+
 Overview
 
 This project demonstrates how login credentials transmitted over HTTP can be intercepted and viewed in plaintext using Wireshark, and how TLS encryption protects application-layer data during HTTPS communication.
 A custom HTML login page and Python HTTP server were used to simulate credential submission in a controlled lab environment.
+
 
 
 Objectives
@@ -15,6 +17,7 @@ Objectives
 - Compare HTTP and HTTPS security
 
 
+
 Tools Used
 
 - Wireshark
@@ -22,6 +25,7 @@ Tools Used
 - HTML
 - HTTP Protocol
 - TLS Protocol
+
 
 
 Lab Setup
@@ -35,6 +39,7 @@ Python HTTP Server (192.168.1.5:8000)
 Wireshark Packet Capture
 
 
+
 Key Findings
 
 HTTP Analysis
@@ -46,15 +51,16 @@ TLS Analysis
     Application-layer data remained encrypted and could not be inspected directly.
 
 
+
 Security Implications
 
 HTTP is vulnerable to:
-
 - Packet sniffing
 - Credential exposure
 - Man-in-the-middle attacks
 
 TLS encryption significantly improves confidentiality by protecting application data from packet-level inspection.
+
 
 
 Skills Demonstrated
