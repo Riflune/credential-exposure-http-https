@@ -31,6 +31,8 @@ Tools Used
 Lab Setup
 
 ![Lab Setup Diagram](lab_setup_diagram.jpeg)
+
+
 Client Browser (192.168.1.4)
 ↓
 HTTP Request
