@@ -42,6 +42,29 @@ Python HTTP Server (192.168.1.5:8000)
 Wireshark Packet Capture
 
 
+Project Evidence
+
+HTTP Follow TCP Stream
+
+Screenshot demonstrating reconstruction of HTTP communication.
+
+Plaintext Credentials
+
+Screenshot showing username and password visible in packet data.
+
+TLS Handshake
+
+Screenshot showing Server Hello and TLS session establishment.
+
+TLS Encrypted Traffic
+
+Screenshot showing encrypted application data.
+
+Protocol Hierarchy
+
+Screenshot showing protocol distribution statistics.
+
+
 
 Key Findings
 
