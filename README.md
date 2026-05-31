@@ -42,27 +42,43 @@ Python HTTP Server (192.168.1.5:8000)
 Wireshark Packet Capture
 
 
-Project Evidence
+## Project Evidence
 
-HTTP Follow TCP Stream
+### HTTP Follow TCP Stream
 
-Screenshot demonstrating reconstruction of HTTP communication.
+![HTTP Follow TCP Stream](HTTP_tcpstream.png)
 
-Plaintext Credentials
+### HTTP Form URL Encoded Data
 
-Screenshot showing username and password visible in packet data.
+![HTTP Form Data](http_url.png)
 
-TLS Handshake
+### Plaintext Credentials
 
-Screenshot showing Server Hello and TLS session establishment.
+![Plaintext Credentials](plaintext_credentials.png)
 
-TLS Encrypted Traffic
+### TLS Server Hello
 
-Screenshot showing encrypted application data.
+![TLS Server Hello](tls_server_hello.png)
 
-Protocol Hierarchy
+### TLS Encrypted Traffic
 
-Screenshot showing protocol distribution statistics.
+![TLS Encrypted Traffic](tls_ciphertext.png)
+
+### Python Server
+
+![Python Server](server.py_image.png)
+
+### Login Page
+
+![Login Page](index.html_image.png)
+
+### Protocol Hierarchy
+
+![Protocol Hierarchy](protocol_hierarchy.png)
+
+### Statistics
+
+![Statistics](statistics.png)
 
 
 
