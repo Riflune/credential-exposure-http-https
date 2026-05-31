@@ -114,3 +114,7 @@ Skills Demonstrated
 - Network Security Fundamentals
 - Cybersecurity Documentation
 
+Conclusion
+
+This project demonstrated how HTTP transmits credentials in plaintext, making sensitive information visible through packet analysis tools such as Wireshark. By comparing HTTP and HTTPS traffic, it was observed that TLS encryption protects user data from network interception. The experiment highlights the importance of HTTPS in securing web communications and preventing credential exposure.
+
