@@ -30,8 +30,7 @@ Tools Used
 
 Lab Setup
 
-![Lab Setup Diagram](WhatsApp Image 2026-05-31 at 11.28.37 PM.jpeg)
-
+![Lab Setup Diagram](lab_setup_diagram.jpeg)
 Client Browser (192.168.1.4)
 ↓
 HTTP Request
